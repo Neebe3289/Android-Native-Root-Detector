@@ -1,7 +1,6 @@
 <resources>
     <string name="settings">Pengaturan</string>
     <string name="settings_app">Aplikasi</string>
-    <string name="language">Bahasa</string>
     <string name="home_label">Beranda</string>
     <string name="settings_label">Pengaturan</string>
     <string name="support_us">Dukung Kami</string>
@@ -9,16 +8,16 @@
     <string name="about_view_source_code"><![CDATA[Bergabunglah dengan saluran %1$s kami<br/><br>Hak Cipta © %2$s<br/>]]></string>
     <string name="About">Tentang</string>
     <string name="true_a">Benar</string>
-    <string name="false_a">Salah</string>
+    <string name="false_a">Tidak</string>
     <string name="true_b">Benar</string>
-    <string name="false_b">Salah</string>
-    <string name="sysinfo">Informasi Sistem</string>
+    <string name="false_b">Tidak</string>
+    <string name="sysinfo">Sistem</string>
     <string name="sysinfo_device">Perangkat: %s</string>
     <string name="sysinfo_android_version">Versi Android: %s</string>
     <string name="sysinfo_kernel_version">Versi Kernel: %s</string>
     <string name="appinfo_version">Versi Aplikasi: %s</string>
     <string name="appinfo_signature">Tanda Tangan Aplikasi: %s</string>
-    <string name="appinfo_is_signature_valid">Tanda Tangan Valid: %s</string>
+    <string name="appinfo_is_signature_valid">Tanda Tangan Sah: %s</string>
     <string name="appinfo_unknown_version">TIDAK DIKETAHUI</string>
     <string name="experimental_detections">Deteksi Eksperimental: %s</string>
     <string name="DayNight">Mode Gelap</string>
@@ -39,8 +38,8 @@
     <!-- Update Strings -->
     <string name="failed_to_get_update_info">Gagal mengambil informasi pembaruan</string>
     <string name="update_available">Pembaruan Tersedia</string>
-    <string name="version_is_available" translatable="false">Versi %s tersedia. Apakah Anda ingin mengunduhnya sekarang?</string>
-    <string name="update_confirm">OK</string>
+    <string name="version_is_available">Versi %s tersedia. Apakah Anda ingin mengunduhnya sekarang?</string>
+    <string name="update_confirm">Konfirmasi</string>
     <string name="update_cancel">Batal</string>
     <string name="update_downloading">Mengunduh Pembaruan</string>
     <string name="update_wait">Mohon tunggu…</string>
@@ -72,7 +71,7 @@
     <string name="detected_resetprop">Resetprop Terdeteksi</string>
     <string name="tee_is_broken">TEE rusak</string>
     <string name="keybox_revoked_by_google">Keybox %s dicabut oleh Google</string>
-    <string name="key_attestation_failed">Attestasi Kunci gagal</string>
+    <string name="key_attestation_failed">Pengesahan Kunci gagal</string>
     <string name="detected_abnormal_boot_state">Status Boot Tidak Normal Terdeteksi</string>
     <string name="detected_leaked_keybox">Keybox Bocor Terdeteksi</string>
     <string name="detected_mount_abnormality">Keanehan Mount Terdeteksi</string>
